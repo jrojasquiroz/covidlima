@@ -12,7 +12,7 @@ library(rgeos)
 
 #1.Importamos el archivo vectorial
 lima<-st_read("turuta/consolidado-limaycallao_UTM18S.gpkg")
-#Yo trabajo con Geopackage, pero puede ser un shapefile también
+#Yo trabajo con Geopackage, pero puede ser un shapefile tambiÃ©n
 
 #2.Calculamos la matriz de pesos espaciales.
 #En este caso, una de contiguidad reina.
@@ -21,14 +21,14 @@ is.symmetric.nb(nb) #Es simetrica? Nos dice que si
 
 #3.Y, por si caso, una basa en la distancia entre centroides
   #3.1. Importamos el archivo con los centroides, que lo hice en QGIS  
-  cents<-st_read("G:/Mi unidad/Documentos personales/QGIS y Econometría espacial - Lambda/trabajofinal/data/limaycallao-distritos-centroides_UTM18S.gpkg")
+  cents<-st_read("turuta/limaycallao-distritos-centroides_UTM18S.gpkg")
   #3.2. Encontramos las coordenadas
   coords <- cbind(cents$x,cents$y)
   #3.3. Ahora necesitamos un umbral de distancia. Para encontrarlo, 
   #primero encontramos los k 
-  #vecinos más cercanos para k = 1. Esto nos dará una lista, donde cada 
+  #vecinos mÃ¡s cercanos para k = 1. Esto nos darÃ¡ una lista, donde cada 
   #punto tiene exactamente un vecino (evitamos islas). 
-  #Para ello, utilizamos la función 'knearneigh` de la biblioteca spdep. 
+  #Para ello, utilizamos la funciÃ³n 'knearneigh` de la biblioteca spdep. 
   knn1 <- knearneigh(coords)
   k1 <- knn2nb(knn1)
   #3.4. Y ahora si, el umbral critico 
