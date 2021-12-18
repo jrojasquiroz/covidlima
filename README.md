@@ -158,6 +158,20 @@ de pruebas realizadas eran las de anticuerpos, cuyos resultados no son igual de 
 
 <b id="f2">2</b> Para la informalidad se utiliza otra variable proxy: el porcentaje de hogares sin refrigeradoras.[↩](#a2)
 
+## Referencias
+Anselin, L. (2005). Exploring Spatial Data with GeoDa: A Workbook.
+
+Centro Nacional de Epidemiologia prevención y Control de Enfermedades - MINSA. (2021). Fallecidos por COVID-19. https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa
+
+Instituto Nacional de Estadística e Informática (INEI). (2017). XII Censo de Población, VII de Vivienda y III de Comunidades Indígenas. http://censos2017.inei.gob.pe/pubinei/index.asp
+
+Mena, G. E., Martinez, P. P., Mahmud, A. S., Marquet, P. A., Buckee, C. O., & Santillana, M. (2021). Socioeconomic status determines COVID-19 incidence and related mortality in Santiago, Chile. Science, 372(6545). https://doi.org/10.1126/science.abg5298
+
+Tirachini, A., & Cats, O. (2020). COVID-19 and public transportation: Current assessment, prospects, and research needs. Journal of Public Transportation, 22(1), 1–34. https://doi.org/10.5038/2375-0901.22.1.1
+
+You, H., Wu, X., & Guo, X. (2020). Distribution of COVID-19 Morbidity Rate in Association with Social and Economic Factors in Wuhan, China: Implications for Urban Development. International Journal of Environmental Research and Public Health, 17(10), 3417. https://doi.org/10.3390/ijerph17103417
+
+
 
 
 
