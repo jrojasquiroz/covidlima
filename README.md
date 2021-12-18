@@ -153,9 +153,10 @@ se pudo incluir otras variables que incorporen más características socioeconó
 
 ## Notas al pie
 
-<b id="f2">1</b> En una situación ideal se debería utilizar la tasa de contagios y no la de decesos, pero durante este periodo la mayor cantidad 
-de pruebas realizadas eran las de anticuerpos, cuyos resultados no son igual de confiables que las PCR.
-<b id="f2">2</b> Para la informalidad se utiliza otra variable proxy: el porcentaje de hogares sin refrigeradoras.
+<b id="f1">1</b> En una situación ideal se debería utilizar la tasa de contagios y no la de decesos, pero durante este periodo la mayor cantidad 
+de pruebas realizadas eran las de anticuerpos, cuyos resultados no son igual de confiables que las PCR.[↩](#a1)
+
+<b id="f2">2</b> Para la informalidad se utiliza otra variable proxy: el porcentaje de hogares sin refrigeradoras.[↩](#a2)
 
 
 
